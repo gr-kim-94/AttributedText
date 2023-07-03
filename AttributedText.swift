@@ -1,6 +1,5 @@
 //
 //  AttributtedText.swift
-//  Rfice
 //
 //  Created by 김가람 on 2023/07/03.
 //
